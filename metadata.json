@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ObjectSense AI",
+  "description": "Real-time client-side object detection using the DETR ResNet-50 Transformer model. Runs entirely in your browser via WebAssembly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
